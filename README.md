@@ -2,7 +2,7 @@
  
  if you want the tuto of exercise of grafikart [click here](https://www.youtube.com/watch?v=aXt6zrAj3lk&list=PLjwdMgw5TTLVDv-ceONHM_C19dPW1MAMD&index=27) 
  
- The conditions for realised the exercise is :
+ The conditions for realised the exercise is
  =============================================
  
  
