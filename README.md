@@ -5,12 +5,12 @@
  The conditions for realised the exercise is :
  =============================================
  
- *one page with formulaire
- *one champs for username
- *one champs for message
- *one button for submit
- *if the username is < 3 charactère and the message is < 10 charactère make error
- *else create a file and write in JSON the data
- *affiche data of the JSON under formulaire
+ one page with formulaire
+ one champs for username
+ one champs for message
+ one button for submit
+ if the username is < 3 charactère and the message is < 10 charactère make error
+ else create a file and write in JSON the data
+ affiche data of the JSON under formulaire
 
 ![image exercise](https://github.com/Boomwerk/LivreD-orGrafikartExercice/blob/master/livred'or.PNG)
